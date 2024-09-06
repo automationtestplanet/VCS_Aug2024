@@ -1,0 +1,2 @@
+This is File2
+File2 is fethed from stash area
